@@ -3,7 +3,7 @@ public class APLine
  private int a1 = 0;
  private int a2 = 0;
  private int a3 = 0;
- public APline(int a, int b, int c){
+ APline(int a, int b, int c){
    a1 = a;
    a2 = b;
    a3 = c;
