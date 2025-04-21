@@ -5,7 +5,7 @@ public class APLine
  private int a3 = 0;
  public APline(int a, int b, int c){
    a1 = a;
-   a2 = b
+   a2 = b;
    a3 = c;
  }
  public double getSlope(){
